@@ -43,5 +43,22 @@
 ## Goodfitting:
 - A line or a curve that best fits the data is neither overfitting nor underfitting models but just it right.<br>
 ![goodfitting](https://user-images.githubusercontent.com/65020391/198530537-d69d362f-7e66-438f-b229-efeb2d1b240b.png)
+
+## Regression:
+### When we use Regression?
+``` Imagine we collected some data and we want to plug that data in xy-plane.We have x-axis and y-axis. The x-axis contains explanotory variable and y-axis contain response variable.When our explainatory variable values are continuous means that it can take any value either int or real then we are going to do something like REGRESSION. When our explainatory variable isn't continuous it could be something like FACTORS and factor contains different levels then we use technique ANOVA(analysis of variance). ```<br>
+
+### What is Regression?
+``` Regression analysis is a statistical methodology that utilizes the relation between two or more quantitative variables so that a response or outcome variable can be predicted from others.```<br><br>
+```Y = b0 + b1*X + E```<br><br>
+```Y: dependent variable, response variable, outcome variable```<br> 
+```X: independent variable, predictor variable, explainatory variable```<br> 
+```b0: constant or intercept of the line```<br>
+```b1: independent variable's slope```<br> 
+```E: error term or residuals```<br> 
+![reg](https://user-images.githubusercontent.com/65020391/198567439-4417f04a-795b-4ab8-861d-89b999b724d0.png)
+
+
+
   
 
