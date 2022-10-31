@@ -58,6 +58,11 @@
 ```E: error term or residuals```<br> 
 ![reg](https://user-images.githubusercontent.com/65020391/198567439-4417f04a-795b-4ab8-861d-89b999b724d0.png)
 
+## Splitting of Data Set in ML:
+we divides our dataset into two subsets:<br>
+- training set—a subset to train a model.<br>
+- test set—a subset to test the trained model.
+
 
 
   
