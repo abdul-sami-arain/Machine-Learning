@@ -63,7 +63,18 @@ we divides our dataset into two subsets:<br>
 - training set—a subset to train a model.<br>
 - test set—a subset to test the trained model.
 
-
+## Normalization of dataset in ML:
+- Normalization is a scaling technique in Machine Learning applied during data preparation to change the values of numeric columns in the dataset to use a common scale. It is not necessary for all datasets in a model. It is required only when features of machine learning models have different ranges.<br>
+- This process of normalization is known by other names such as standardization, feature scaling etc. Normalization is an essential step in data pre-processing in any machine learning application and model fitting.
+###  tools and techniques for Normalization:
+Several methods are applied for normalization, three popular and widely used techniques are as follows:<br>
+- <b>Rescaling:</b> also known as “min-max normalization”, it is the simplest of all methods and calculated as:
+  ![1_HFpeFyqGUwYW8sKIF0Ckpg](https://user-images.githubusercontent.com/65020391/200107976-b61a9aa6-796c-4c3b-bc4b-eb1908fe9dc9.png)
+- <b>Mean normalization:</b> This method uses the mean of the observations in the transformation process:<br>  
+  ![avg](https://user-images.githubusercontent.com/65020391/200108020-101965db-2208-4a01-b4d6-516854371120.png)
+- <b>Z-score normalization:</b> Also known as standardization, this technic uses Z-score or “standard score”. It is widely used in machine learning algorithms such as SVM and   logistic regression:<br>
+  ![zscore](https://user-images.githubusercontent.com/65020391/200108051-01ebc5af-08f6-4b34-aca8-d6085af827f1.png)  
 
   
+
 
